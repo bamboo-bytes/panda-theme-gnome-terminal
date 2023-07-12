@@ -1,0 +1,22 @@
+[/]
+default='20455d34-0323-482d-a8d8-56d2da1703cd'
+list=['b1dcc9dd-5262-4d8d-a863-c897e6d979b9', '20455d34-0323-482d-a8d8-56d2da1703cd']
+
+[:20455d34-0323-482d-a8d8-56d2da1703cd]
+background-color='rgb(0,0,0)'
+cursor-background-color='rgb(236,40,100)'
+cursor-blink-mode='off'
+cursor-colors-set=true
+font='Monospace 14'
+foreground-color='rgb(255,255,255)'
+highlight-background-color='rgb(176,132,235)'
+highlight-colors-set=true
+palette=['rgb(0,0,0)', 'rgb(255,184,220)', 'rgb(0,255,232)', 'rgb(255,168,108)', 'rgb(142,212,255)', 'rgb(255,92,140)', 'rgb(181,156,240)', 'rgb(192,192,192)', 'rgb(128,128,128)', 'rgb(255,144,208)', 'rgb(53,255,220)', 'rgb(255,184,108)', 'rgb(125,193,255)', 'rgb(236,40,100)', 'rgb(176,132,235)', 'rgb(255,255,255)']
+use-system-font=false
+use-theme-colors=false
+visible-name='panda-theme-gnome-terminal'
+
+[:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+background-color='rgb(0,43,54)'
+foreground-color='rgb(131,148,150)'
+use-theme-colors=false
